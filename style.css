@@ -1,6 +1,7 @@
 canvas{
 box-shadow:3px 3px 3px whitesmoke;
 border-radius:8px;
+margin:6px;
 }
 body{
 background-size:cover;
